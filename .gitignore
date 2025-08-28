@@ -1,0 +1,23 @@
+node_modules/
+.env
+*.log
+npm-debug.log*
+
+
+# --- server ignores ---
+/server/node_modules/
+/server/.env
+/server/dist/
+/server/build/
+/server/coverage/
+
+
+# --- client ignores ---
+/client/node_modules/
+/client/.env
+/client/dist/
+/client/build/
+/client/.vite
+/client/coverage/
+
+
