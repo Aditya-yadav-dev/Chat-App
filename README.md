@@ -7,7 +7,7 @@ This app allows users to register, log in, chat in real-time,show Online Users a
 
 🔗 Demo
 
-🚀 Live Demo: Click Here
+🚀 Live Demo: https://chat-app-client-nu-six.vercel.app/
 
 
 
